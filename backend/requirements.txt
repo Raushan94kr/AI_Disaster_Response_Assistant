@@ -1,0 +1,9 @@
+streamlit
+requests
+fastapi
+uvicorn[standard]
+python-multipart
+tensorflow
+numpy
+Pillow
+reportlab
