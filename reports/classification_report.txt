@@ -1,0 +1,15 @@
+AI Disaster Response Assistant
+Building Damage Classification
+
+Test Accuracy: 25.00%
+
+              precision    recall  f1-score   support
+
+   No_Damage     0.0000    0.0000    0.0000        75
+Minor_Damage     0.0000    0.0000    0.0000        75
+Major_Damage     0.0000    0.0000    0.0000        75
+   Destroyed     0.2500    1.0000    0.4000        75
+
+    accuracy                         0.2500       300
+   macro avg     0.0625    0.2500    0.1000       300
+weighted avg     0.0625    0.2500    0.1000       300

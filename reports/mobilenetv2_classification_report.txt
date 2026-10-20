@@ -1,0 +1,15 @@
+AI Disaster Response Assistant
+MobileNetV2 Transfer Learning
+
+Test Accuracy: 86.00%
+
+              precision    recall  f1-score   support
+
+   No_Damage     0.8795    0.9733    0.9241        75
+Minor_Damage     0.8209    0.7333    0.7746        75
+Major_Damage     0.8143    0.7600    0.7862        75
+   Destroyed     0.9125    0.9733    0.9419        75
+
+    accuracy                         0.8600       300
+   macro avg     0.8568    0.8600    0.8567       300
+weighted avg     0.8568    0.8600    0.8567       300
